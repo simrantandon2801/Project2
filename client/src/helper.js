@@ -1,0 +1,1 @@
+export const Api_url ='https://sociopedia-25hv.onrender.com'
